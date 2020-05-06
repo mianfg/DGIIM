@@ -55,7 +55,7 @@ Correspondiente al curso **2018/2019**.
 | `AMI`  | **Análisis Matemático I**      | Matemáticas            | Análisis Matemático                                          |
 | `EC`   | **Estructura de Computadores** | Ingeniería Informática | Arquitectura y Tecnología de Computadores                    |
 | `ED`   | **Estructuras de Datos**       | Ingeniería Informática | Departamento de Ciencias de la Computación e Inteligencia Artificial |
-| `SO`   | **Sistemas Operativos**        | Ingeniería Informática | Lenguajes y Sistemas Informáticos                            |
+| [`SO`](https://github.com/mianfg/DGIIM-SO) | [**Sistemas Operativos**](https://github.com/mianfg/DGIIM-SO) | Ingeniería Informática | Lenguajes y Sistemas Informáticos                            |
 | `TOPI` | **Topología I**                | Matemáticas            | Geometría y Topología                                        |
 
 ###### Segundo cuatrimestre
