@@ -15,7 +15,7 @@ Correspondiente al curso **2017/2018**.
 | ------ | -------------------------------------- | ---------------------- | ------------------------------------------------------------ |
 | `CALI` | **Cálculo I**                          | Matemáticas            | Análisis Matemático                                          |
 | `FFT`  | **Fundamentos Físicos y Tecnológicos** | Ingeniería Informática | Física                                                       |
-| `FP`   | **Fundamentos de Programación**        | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial (DECSAI) |
+| `FP`   | **Fundamentos de Programación**        | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial         |
 | `FS`   | **Fundamentos del Software**           | Ingeniería Informática | Lenguajes y Sistemas Informáticos                            |
 | `GEOI` | **Geometría I**                        | Matemáticas            | Geometría y Topología                                        |
 | `LMD`  | **Lógica y Métodos Discretos**         | Ingeniería Informática | Álgebra                                                      |
@@ -28,7 +28,7 @@ Correspondiente al curso **2017/2018**.
 | `EDIP` | **Estadística Descriptiva e Introducción a la Probabilidad**       | Matemáticas | Estadística e Investigación Operativa |
 | `GEOII` | **Geometría II**                    | Matemáticas            | Geometría y Topología |
 | `MNI` | **Métodos Numéricos I**    | Matemáticas | Matemática Aplicada |
-| `MP` | **Metodología de la Programación** | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial (DECSAI) |
+| `MP` | **Metodología de la Programación** | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial |
 | `TOC` | **Tecnología de Organización de Computadores**     | Ingeniería Informática | Lenguajes y Sistemas Informáticos |
 
 ### Segundo curso
