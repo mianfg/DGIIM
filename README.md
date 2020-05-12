@@ -63,7 +63,7 @@ Correspondiente al curso **2018/2019**.
 | Abbr.    | Nombre                                        | Grado                  | Departamento                                                 |
 | -------- | --------------------------------------------- | ---------------------- | ------------------------------------------------------------ |
 | [`AC`](https://github.com/mianfg/DGIIM-AC) | [**Arquitectura de Computadores**](https://github.com/mianfg/DGIIM-AC) | Ingeniería Informática | Arquitectura y Tecnología de Computadores                    |
-| `ALGO`   | **Algorítmica**                               | Ingeniería Informática | Departamento de Ciencias de la Computación e Inteligencia Artificial |
+| [`ALGO`](https://github.com/mianfg/DGIIM-ALGO) | [**Algorítmica**](https://github.com/mianfg/DGIIM-ALGO) | Ingeniería Informática | Departamento de Ciencias de la Computación e Inteligencia Artificial |
 | `AMII`   | **Análisis Matemático II**                    | Matemáticas            | Análisis Matemático                                          |
 | `GEOIII` | **Geometría III**                             | Matemáticas            | Geometría y Topología                                        |
 | `MMI`    | **Modelos Matemáticos I**                     | Matemáticas            | Matemática Aplicada                                          |
