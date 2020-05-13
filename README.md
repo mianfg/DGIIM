@@ -54,7 +54,7 @@ Correspondiente al curso **2018/2019**.
 | `ALGI` | **Álgebra I**                  | Matemáticas            | Álgebra                                                      |
 | `AMI`  | **Análisis Matemático I**      | Matemáticas            | Análisis Matemático                                          |
 | `EC`   | **Estructura de Computadores** | Ingeniería Informática | Arquitectura y Tecnología de Computadores                    |
-| `ED`   | **Estructuras de Datos**       | Ingeniería Informática | Departamento de Ciencias de la Computación e Inteligencia Artificial |
+| `ED`   | **Estructuras de Datos**       | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial |
 | [`SO`](https://github.com/mianfg/DGIIM-SO) | [**Sistemas Operativos**](https://github.com/mianfg/DGIIM-SO) | Ingeniería Informática | Lenguajes y Sistemas Informáticos                            |
 | `TOPI` | **Topología I**                | Matemáticas            | Geometría y Topología                                        |
 
@@ -90,7 +90,7 @@ Correspondiente al curso **2019/2020**.
 | -------------------------------------------- | ------------------------------------------------------------ | ---------------------- | ---------------------------------------------------- |
 | `ALGII`                                      | **Álgebra II**                                               | Matemáticas            | Álgebra                                              |
 | [`ISE`](https://github.com/mianfg/DGIIM-ISE) | [**Ingeniería de Servidores**](https://github.com/mianfg/DGIIM-ISE) | Ingeniería Informática | Arquitectura y Tecnología de Computadores            |
-| `IA`                                         | **Inteligencia Artificial**                                  | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial |
+| [`IA`](https://github.com/mianfg/DGIIM-IA) | [**Inteligencia Artificial**](https://github.com/mianfg/DGIIM-IA) | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial |
 | `FIS`                                        | **Fundamentos de Ingeniería del Software**                   | Ingeniería Informática | Lenguajes y Sistemas Informáticos                    |
 | `MNII`                                       | **Métodos Numéricos II**                                     | Matemáticas            | Matemática Aplicada                                  |
 | `VCI`                                        | **Variable Compleja I**                                      | Matemáticas            | Análisis Matemático                                  |
