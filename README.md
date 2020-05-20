@@ -3,7 +3,7 @@ Bienvenido a mis apuntes, ejercicios y demás cosas del **Doble Grado en Ingenie
 
 > Nota: por comodidad, he decidido crear un repositorio para cada una de las asignaturas del doble grado. Aquí tienes un índice de los repositorios creados.
 >
-> Estoy trabajando para poder recopilar todo el contenido que he hecho. Si no está alguna asignatura, siempre puedes contactar conmigo 😊
+> Estoy trabajando para poder recopilar todo el contenido que he hecho. Si no está alguna asignatura, siempre puedes contactar conmigo por mis redes sociales o por correo electrónico: [hello@mianfg.me](mailto:hello@mianfg.me) 😊
 
 ### Índice
 
