@@ -60,14 +60,14 @@ Correspondiente al curso **2018/2019**.
 
 ###### Segundo cuatrimestre
 
-| Abbr.    | Nombre                                        | Grado                  | Departamento                                                 |
-| -------- | --------------------------------------------- | ---------------------- | ------------------------------------------------------------ |
-| [`AC`](https://github.com/mianfg/DGIIM-AC) | [**Arquitectura de Computadores**](https://github.com/mianfg/DGIIM-AC) | Ingeniería Informática | Arquitectura y Tecnología de Computadores                    |
-| [`ALGO`](https://github.com/mianfg/DGIIM-ALGO) | [**Algorítmica**](https://github.com/mianfg/DGIIM-ALGO) | Ingeniería Informática | Departamento de Ciencias de la Computación e Inteligencia Artificial |
-| `AMII`   | **Análisis Matemático II**                    | Matemáticas            | Análisis Matemático                                          |
-| `GEOIII` | **Geometría III**                             | Matemáticas            | Geometría y Topología                                        |
-| `MMI`    | **Modelos Matemáticos I**                     | Matemáticas            | Matemática Aplicada                                          |
-| `PDOO`   | **Programación y Diseño Orientado a Objetos** | Ingeniería Informática | Lenguajes y Sistemas Informáticos                            |
+| Abbr.                                          | Nombre                                                       | Grado                  | Departamento                                         |
+| ---------------------------------------------- | ------------------------------------------------------------ | ---------------------- | ---------------------------------------------------- |
+| [`AC`](https://github.com/mianfg/DGIIM-AC)     | [**Arquitectura de Computadores**](https://github.com/mianfg/DGIIM-AC) | Ingeniería Informática | Arquitectura y Tecnología de Computadores            |
+| [`ALGO`](https://github.com/mianfg/DGIIM-ALGO) | [**Algorítmica**](https://github.com/mianfg/DGIIM-ALGO)      | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial |
+| `AMII`                                         | **Análisis Matemático II**                                   | Matemáticas            | Análisis Matemático                                  |
+| `GEOIII`                                       | **Geometría III**                                            | Matemáticas            | Geometría y Topología                                |
+| `MMI`                                          | **Modelos Matemáticos I**                                    | Matemáticas            | Matemática Aplicada                                  |
+| `PDOO`                                         | **Programación y Diseño Orientado a Objetos**                | Ingeniería Informática | Lenguajes y Sistemas Informáticos                    |
 
 ### Tercer curso
 
