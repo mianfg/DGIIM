@@ -92,6 +92,6 @@ Correspondiente al curso **2019/2020**.
 | [`ISE`](https://github.com/mianfg/DGIIM-ISE)   | [**Ingeniería de Servidores**](https://github.com/mianfg/DGIIM-ISE) | Ingeniería Informática | Arquitectura y Tecnología de Computadores            |
 | [`IA`](https://github.com/mianfg/DGIIM-IA)     | [**Inteligencia Artificial**](https://github.com/mianfg/DGIIM-IA) | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial |
 | `FIS`                                          | **Fundamentos de Ingeniería del Software**                   | Ingeniería Informática | Lenguajes y Sistemas Informáticos                    |
-| [`MNII`](https://github.com/mianfg/DGIIM-MNII) | **[Métodos Numéricos II**](https://github.com/mianfg/DGIIM-MNII) | Matemáticas            | Matemática Aplicada                                  |
+| [`MNII`](https://github.com/mianfg/DGIIM-MNII) | [**Métodos Numéricos II**](https://github.com/mianfg/DGIIM-MNII) | Matemáticas            | Matemática Aplicada                                  |
 | `VCI`                                          | **Variable Compleja I**                                      | Matemáticas            | Análisis Matemático                                  |
 
