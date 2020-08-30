@@ -1,3 +1,5 @@
+![Repo image](https://repository-images.githubusercontent.com/261717525/8e124e80-eaeb-11ea-84db-6a0ed9318db4)
+
 # DGIIM
 Bienvenido a mis apuntes, ejercicios y demás cosas del **Doble Grado en Ingeniería Informática y Matemáticas, de la Universidad de Granada**.
 
