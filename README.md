@@ -92,7 +92,7 @@ Correspondiente al curso **2019/2020**.
 | [`FR`](https://github.com/mianfg/DGIIM-FR) | [**Fundamentos de Redes**](https://github.com/mianfg/DGIIM-FR) | Ingeniería Informática | Teoría de la Señal, Telemática y Telecomunicaciones | ![no empezado](https://img.shields.io/badge/-no%20empezado-red) |
 | [`MC`](https://github.com/mianfg/DGIIM-MC) | [**Modelos de Computación**](https://github.com/mianfg/DGIIM-MC) | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial | ![no empezado](https://img.shields.io/badge/-no%20empezado-red) |
 | [`PROB`](https://github.com/mianfg/DGIIM-PROB) | [**Probabilidad**](https://github.com/mianfg/DGIIM-PROB) | Matemáticas | Estadística e Investigación Operativa | ![no empezado](https://img.shields.io/badge/-no%20empezado-red) |
-| [`SCD`](https://github.com/mianfg/DGIIM-SCD) | [**Sistemas Concurrentes y Distribuidos**](https://github.com/mianfg/DGIIM-SCD) | Ingeniería Informática | Lenguajes y Sistemas Informáticos | ![no empezado](https://img.shields.io/badge/-no%20empezado-red) |
+| [`SCD`](https://github.com/mianfg/DGIIM-SCD) | [**Sistemas Concurrentes y Distribuidos**](https://github.com/mianfg/DGIIM-SCD) | Ingeniería Informática | Lenguajes y Sistemas Informáticos | ![completo](https://img.shields.io/badge/-completo-green) |
 
 ###### Segundo cuatrimestre
 
