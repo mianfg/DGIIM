@@ -38,7 +38,7 @@ Correspondiente al curso **2017/2018**.
 | [`CALI`](https://github.com/mianfg/DGIIM-CALI) | [**Cálculo I**](https://github.com/mianfg/DGIIM-CALI) | Matemáticas | Análisis Matemático | ![en proceso](https://img.shields.io/badge/-en%20proceso-yellow) |
 | [`FFT`](https://github.com/mianfg/DGIIM-FFT) | [**Fundamentos Físicos y Tecnológicos**](https://github.com/mianfg/DGIIM-FFT) | Ingeniería Informática | Física | ![en proceso](https://img.shields.io/badge/-en%20proceso-yellow) |
 | [`FP`](https://github.com/mianfg/DGIIM-FP) | [**Fundamentos de Programación**](https://github.com/mianfg/DGIIM-FP) | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial | ![completo](https://img.shields.io/badge/-completo-green) |
-| [`FS`](https://github.com/mianfg/DGIIM-FS) | [**Fundamentos del Software**](https://github.com/mianfg/DGIIM-FS) | Ingeniería Informática | Lenguajes y Sistemas Informáticos | ![no empezado](https://img.shields.io/badge/-no%20empezado-red) |
+| [`FS`](https://github.com/mianfg/DGIIM-FS) | [**Fundamentos del Software**](https://github.com/mianfg/DGIIM-FS) | Ingeniería Informática | Lenguajes y Sistemas Informáticos | ![completo](https://img.shields.io/badge/-completo-green) |
 | [`GEOI`](https://github.com/mianfg/DGIIM-GEOI) | [**Geometría I**](https://github.com/mianfg/DGIIM-GEOI) | Matemáticas | Geometría y Topología | ![no empezado](https://img.shields.io/badge/-no%20empezado-red) |
 | [`LMD`](https://github.com/mianfg/DGIIM-LMD) | [**Lógica y Métodos Discretos**](https://github.com/mianfg/DGIIM-LMD) | Ingeniería Informática | Álgebra | ![no empezado](https://img.shields.io/badge/-no%20empezado-red) |
 
