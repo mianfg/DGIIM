@@ -50,7 +50,7 @@ Correspondiente al curso **2017/2018**.
 | [`EDIP`](https://github.com/mianfg/DGIIM-EDIP) | [**Estadística Descriptiva e Introducción a la Probabilidad**](https://github.com/mianfg/DGIIM-EDIP) | Matemáticas | Estadística e Investigación Operativa | ![completo](https://img.shields.io/badge/-completo-green) |
 | [`GEOII`](https://github.com/mianfg/DGIIM-GEOII) | [**Geometría II**](GEOII) | Matemáticas | Geometría y Topología | ![no empezado](https://img.shields.io/badge/-no%20empezado-red) |
 | [`MNI`](https://github.com/mianfg/DGIIM-MNI) | [**Métodos Numéricos I**](https://github.com/mianfg/DGIIM-MNI) | Matemáticas | Matemática Aplicada | ![completo](https://img.shields.io/badge/-completo-green) |
-| [`MP`](https://github.com/mianfg/DGIIM-MP) | [**Metodología de la Programación**](https://github.com/mianfg/DGIIM-MP) | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial | ![no empezado](https://img.shields.io/badge/-no%20empezado-red) |
+| [`MP`](https://github.com/mianfg/DGIIM-MP) | [**Metodología de la Programación**](https://github.com/mianfg/DGIIM-MP) | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial | ![completo](https://img.shields.io/badge/-completo-green) |
 | [`TOC`](https://github.com/mianfg/DGIIM-TOC) | [**Tecnología de Organización de Computadores**](https://github.com/mianfg/DGIIM-TOC) | Ingeniería Informática | Lenguajes y Sistemas Informáticos | ![no empezado](https://img.shields.io/badge/-no%20empezado-red) |
 
 ### Segundo curso
