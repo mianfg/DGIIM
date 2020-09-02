@@ -58,7 +58,7 @@ Correspondiente al curso **2018/2019**.
 | [`ALGI`](https://github.com/mianfg/DGIIM-ALGI) | [**Álgebra I**](https://github.com/mianfg/DGIIM-ALGI) | Matemáticas | Álgebra | ![en proceso](https://img.shields.io/badge/-en%20proceso-yellow) |
 | [`AMI`](https://github.com/mianfg/DGIIM-AMI) | [**Análisis Matemático I**](https://github.com/mianfg/DGIIM-AMI) | Matemáticas | Análisis Matemático | ![en proceso](https://img.shields.io/badge/-en%20proceso-yellow) |
 | [`EC`](https://github.com/mianfg/DGIIM-EC) | [**Estructura de Computadores**](https://github.com/mianfg/DGIIM-EC) | Ingeniería Informática | Arquitectura y Tecnología de Computadores | ![completo](https://img.shields.io/badge/-completo-green) |
-| [`ED`](https://github.com/mianfg/DGIIM-ED) | [**Estructuras de Datos**](https://github.com/mianfg/DGIIM-ED) | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial | ![en proceso](https://img.shields.io/badge/-en%20proceso-yellow) |
+| [`ED`](https://github.com/mianfg/DGIIM-ED) | [**Estructuras de Datos**](https://github.com/mianfg/DGIIM-ED) | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial | ![completo](https://img.shields.io/badge/-completo-green) |
 | [`SO`](https://github.com/mianfg/DGIIM-SO) | [**Sistemas Operativos**](https://github.com/mianfg/DGIIM-SO) | Ingeniería Informática | Lenguajes y Sistemas Informáticos | ![completo](https://img.shields.io/badge/-completo-green) |
 | [`TOPI`](https://github.com/mianfg/DGIIM-TOPI) | [**Topología I**](https://github.com/mianfg/DGIIM-TOPI) | Matemáticas | Geometría y Topología | ![en proceso](https://img.shields.io/badge/-en%20proceso-yellow) |
 
