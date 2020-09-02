@@ -77,7 +77,7 @@ Correspondiente al curso **2018/2019**.
 | [`AMII`](https://github.com/mianfg/DGIIM-AMII) | [**Análisis Matemático II**](https://github.com/mianfg/DGIIM-AMII) | Matemáticas | Análisis Matemático | ![no empezado](https://img.shields.io/badge/-no%20empezado-red) |
 | [`GEOIII`](https://github.com/mianfg/DGIIM-GEOIII) | [**Geometría III**](https://github.com/mianfg/DGIIM-GEOIII) | Matemáticas | Geometría y Topología | ![no empezado](https://img.shields.io/badge/-no%20empezado-red) |
 | [`MMI`](https://github.com/mianfg/DGIIM-MMI) | [**Modelos Matemáticos I**](https://github.com/mianfg/DGIIM-MMI) | Matemáticas | Matemática Aplicada | ![no empezado](https://img.shields.io/badge/-no%20empezado-red) |
-| [`PDOO`](https://github.com/mianfg/DGIIM-PDOO) | [**Programación y Diseño Orientado a Objetos**](https://github.com/mianfg/DGIIM-PDOO) | Ingeniería Informática | Lenguajes y Sistemas Informáticos | ![no empezado](https://img.shields.io/badge/-no%20empezado-red) |
+| [`PDOO`](https://github.com/mianfg/DGIIM-PDOO) | [**Programación y Diseño Orientado a Objetos**](https://github.com/mianfg/DGIIM-PDOO) | Ingeniería Informática | Lenguajes y Sistemas Informáticos | ![completo](https://img.shields.io/badge/-completo-green) |
 
 ### Tercer curso
 
