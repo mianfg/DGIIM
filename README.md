@@ -26,6 +26,10 @@ Los repositorios se encuentran en tres fases:
 	* [Segundo cuatrimestre](#segundo-cuatrimestre-2)
 * [Cuarto curso](#cuarto-curso)
 	* [Primer cuatrimestre](#primer-cuatrimestre-3)
+	* [Segundo cuatrimestre](#segundo-cuatrimestre-4)
+* [Quinto curso](#quinto-curso)
+	* [Segundo cuatrimestre](#segundo-cuatrimestre-5)
+* [Optativas](#optativas)
 
 ### Primer curso
 
@@ -119,3 +123,34 @@ Correspondiente al curso **2020/2021**.
 | [`IE`](https://github.com/mianfg/DGIIM-IE) | [**Inferencia Estadística**](https://github.com/mianfg/DGIIM-IE) | Matemáticas | Estadística e Ingestigación Operativa | ![A](https://img.shields.io/badge/-A-red) |
 | [`IG`](https://github.com/mianfg/DGIIM-IG) | [**Informática Gráfica**](https://github.com/mianfg/DGIIM-IG) | Ingeniería Informática | Lenguajes y Sistemas Informáticos | ![A](https://img.shields.io/badge/-A-red) |
 | [`TOPII`](https://github.com/mianfg/DGIIM-TOPII) | [**Topología II**](https://github.com/mianfg/DGIIM-TOPII) | Matemáticas | Geometría y Topología | ![A](https://img.shields.io/badge/-A-red) |
+
+###### Segundo cuatrimestre
+
+| Abbr. | Nombre de asignatura | Grado | Departamento | Fase |
+| --- | --- | --- | --- | --- |
+| [`CS`](https://github.com/mianfg/DGIIM-CS) | [**Curvas y Superficies**](https://github.com/mianfg/DGIIM-CS) | Matemáticas | Geometría y Topología | ![A](https://img.shields.io/badge/-A-red) |
+| `EDII` | **Ecuaciones Diferenciales II** \* | Matemáticas | Matemática Aplicada | ![A](https://img.shields.io/badge/-A-red) |
+| [`MMII`](https://github.com/mianfg/DGIIM-MMII) | [**Modelos Matemáticos II**](https://github.com/mianfg/DGIIM-MMII) | Matemáticas | Matemática Aplicada | ![A](https://img.shields.io/badge/-A-red) |
+
+> \* Esta asignatura la cursaré en el curso 2021/2022.
+
+### Quinto curso
+
+Correspondiente al curso **2021/2022**.
+
+###### Segundo cuatrimestre
+
+| Abbr. | Nombre de asignatura | Grado | Departamento | Fase |
+| --- | --- | --- | --- | --- |
+| [`IES`](https://github.com/mianfg/DGIIM-IES) | [**Ingeniería, Empresa y Sociedad**](https://github.com/mianfg/DGIIM-IES) \* | Ingeniería Informática | Organización de Empresas II | ![A](https://img.shields.io/badge/-A-red) |
+
+> \* Esta asignatura la cursé en el curso 2020/2021.
+
+### Optativas
+
+| Abbr. | Nombre de asignatura | Grado | Departamento | Curso (cuat.) | Fase |
+| --- | --- | --- | --- | --- | --- |
+| [`AA`](https://github.com/mianfg/DGIIM-AA) | [**Aprendizaje Automático**](https://github.com/mianfg/DGIIM-AA) | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial | 2020/2021 (C2) | ![A](https://img.shields.io/badge/-A-red) |
+| [`MAC`](https://github.com/mianfg/DGIIM-MAC) | [**Modelos Avanzados de Computación**](https://github.com/mianfg/DGIIM-MAC) | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial | 2020/2021 (C2) | ![A](https://img.shields.io/badge/-A-red) |
+| [`MH`](https://github.com/mianfg/DGIIM-MH) | [**Metaheurísticas**](https://github.com/mianfg/DGIIM-MH) | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial | 2020/2021 (C2) | ![A](https://img.shields.io/badge/-A-red) |
+| [`PE`](https://github.com/mianfg/DGIIM-PE) | [**Procesos Estocásticos**](https://github.com/mianfg/DGIIM-PE) | Matemáticas | Estadística e Investigación Operativa | 2020/2021 (C2) | ![A](https://img.shields.io/badge/-A-red) |
