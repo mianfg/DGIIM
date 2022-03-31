@@ -132,7 +132,7 @@ Correspondiente al curso **2020/2021**.
 | `EDII` | **Ecuaciones Diferenciales II** \* | Matemáticas | Matemática Aplicada | ![A](https://img.shields.io/badge/-A-red) |
 | [`MMII`](https://github.com/mianfg/DGIIM-MMII) | [**Modelos Matemáticos II**](https://github.com/mianfg/DGIIM-MMII) | Matemáticas | Matemática Aplicada | ![A](https://img.shields.io/badge/-A-red) |
 
-> \* Esta asignatura la cursaré en el curso 2021/2022.
+> \* Esta asignatura la cursé en el curso 2021/2022.
 
 ### Quinto curso
 
@@ -143,7 +143,7 @@ Correspondiente al curso **2021/2022**.
 | Abbr. | Nombre de asignatura | Grado | Departamento | Fase |
 | --- | --- | --- | --- | --- |
 | [`IES`](https://github.com/mianfg/DGIIM-IES) | [**Ingeniería, Empresa y Sociedad**](https://github.com/mianfg/DGIIM-IES) \* | Ingeniería Informática | Organización de Empresas II | ![A](https://img.shields.io/badge/-A-red) |
-| [`TFG`](https://github.com/mianfg/DGIIM-TFG) | [**Trabajo de Fin de Grado**](https://github.com/mianfg/DGIIM-TFG) \* |  |  | ![B](https://img.shields.io/badge/-B-yellow) |
+| [`TFG`](https://github.com/mianfg/DGIIM-TFG) | [**Trabajo de Fin de Grado**](https://github.com/mianfg/DGIIM-TFG) |  |  | ![B](https://img.shields.io/badge/-B-yellow) |
 
 > \* Esta asignatura la cursé en el curso 2020/2021.
 
