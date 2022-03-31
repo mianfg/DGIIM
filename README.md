@@ -154,3 +154,5 @@ Correspondiente al curso **2021/2022**.
 | [`MAC`](https://github.com/mianfg/DGIIM-MAC) | [**Modelos Avanzados de Computación**](https://github.com/mianfg/DGIIM-MAC) | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial | 2020/2021 (C2) | ![A](https://img.shields.io/badge/-A-red) |
 | [`MH`](https://github.com/mianfg/DGIIM-MH) | [**Metaheurísticas**](https://github.com/mianfg/DGIIM-MH) | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial | 2020/2021 (C2) | ![B](https://img.shields.io/badge/-B-yellow) |
 | [`PE`](https://github.com/mianfg/DGIIM-PE) | [**Procesos Estocásticos**](https://github.com/mianfg/DGIIM-PE) | Matemáticas | Estadística e Investigación Operativa | 2020/2021 (C2) | ![A](https://img.shields.io/badge/-A-red) |
+| [`VC`](https://github.com/mianfg/DGIIM-VC) | [**Visión por Computador**](https://github.com/mianfg/DGIIM-VC) | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial | 2021/2022 (C1) | ![C](https://img.shields.io/badge/-C-green) |
+
