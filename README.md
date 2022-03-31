@@ -151,10 +151,14 @@ Correspondiente al curso **2021/2022**.
 | Abbr. | Nombre de asignatura | Grado | Departamento | Curso (cuat.) | Fase |
 | --- | --- | --- | --- | --- | --- |
 | [`AA`](https://github.com/mianfg/DGIIM-AA) | [**Aprendizaje Automático**](https://github.com/mianfg/DGIIM-AA) | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial | 2020/2021 (C2) | ![B](https://img.shields.io/badge/-B-yellow) |
+| [`EC`](https://github.com/mianfg/DGIIM-EC) | [**Estadística Computacional**](https://github.com/mianfg/DGIIM-EC) | Matemáticas | Estadística e Investigación Operativa | 2021/2022 (C1) | ![A](https://img.shields.io/badge/-A-red) |
 | [`IN`](https://github.com/mianfg/DGIIM-IN) | [**Inteligencia de Negocio**](https://github.com/mianfg/DGIIM-IN) | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial | 2021/2022 (C1) | ![C](https://img.shields.io/badge/-C-green) |
 | [`MAC`](https://github.com/mianfg/DGIIM-MAC) | [**Modelos Avanzados de Computación**](https://github.com/mianfg/DGIIM-MAC) | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial | 2020/2021 (C2) | ![A](https://img.shields.io/badge/-A-red) |
+| [`NPI`](https://github.com/mianfg/DGIIM-NPI) | [**Nuevos Paradigmas de Interacción**](https://github.com/mianfg/DGIIM-NPI) | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial | 2021/2022 (C1) | ![C](https://img.shields.io/badge/-C-green) |
 | [`MH`](https://github.com/mianfg/DGIIM-MH) | [**Metaheurísticas**](https://github.com/mianfg/DGIIM-MH) | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial | 2020/2021 (C2) | ![B](https://img.shields.io/badge/-B-yellow) |
 | [`PE`](https://github.com/mianfg/DGIIM-PE) | [**Procesos Estocásticos**](https://github.com/mianfg/DGIIM-PE) | Matemáticas | Estadística e Investigación Operativa | 2020/2021 (C2) | ![A](https://img.shields.io/badge/-A-red) |
 | [`PL`](https://github.com/mianfg/DGIIM-PL) | [**Procesadores de Lenguajes**](https://github.com/mianfg/DGIIM-PL) | Ingeniería Informática | Lenguajes y Sistemas Informáticos | 2021/2022 (C1) | ![C](https://img.shields.io/badge/-C-green) |
+| [`SWAP`](https://github.com/mianfg/DGIIM-SWAP) | [**Servidores Web de Altas Prestaciones**](https://github.com/mianfg/DGIIM-SWAP) | Ingeniería Informática | Arquitectura y Tecnología de Computadores | 2021/2022 (C2) | ![B](https://img.shields.io/badge/-B-red) |
+| [`TGT`](https://github.com/mianfg/DGIIM-TGT) | [**Taller de Geometría y Topología**](https://github.com/mianfg/DGIIM-TGT) | Matemáticas | Geometría y Topología | 2021/2022 (C1) | ![A](https://img.shields.io/badge/-A-red) |
 | [`VC`](https://github.com/mianfg/DGIIM-VC) | [**Visión por Computador**](https://github.com/mianfg/DGIIM-VC) | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial | 2021/2022 (C1) | ![C](https://img.shields.io/badge/-C-green) |
 
